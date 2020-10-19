@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: HopeSpriteLibrary
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Front
+    m_Hash: 1060785650
+    m_CategoryList:
+    - m_Name: crotch
+      m_Hash: -2118870737
+      m_Sprite: {fileID: -830036827146307859, guid: 9d99eff277e794dbb8ab88111e9cb456,
+        type: 3}
+    - m_Name: torso
+      m_Hash: 660585605
+      m_Sprite: {fileID: 3669115896733166845, guid: 9d99eff277e794dbb8ab88111e9cb456,
+        type: 3}
+    - m_Name: backhair
+      m_Hash: 119323219
+      m_Sprite: {fileID: -1059959515802903176, guid: 9d99eff277e794dbb8ab88111e9cb456,
+        type: 3}
+    - m_Name: fringe
+      m_Hash: -25245601
+      m_Sprite: {fileID: 5416084497155640362, guid: 9d99eff277e794dbb8ab88111e9cb456,
+        type: 3}
+    - m_Name: leftspike
+      m_Hash: -1793453218
+      m_Sprite: {fileID: -189138143459440245, guid: 9d99eff277e794dbb8ab88111e9cb456,
+        type: 3}
+    - m_Name: rightspike
+      m_Hash: 984089420
+      m_Sprite: {fileID: -1405655586316439934, guid: 9d99eff277e794dbb8ab88111e9cb456,
+        type: 3}
+    - m_Name: head
+      m_Hash: -1477183844
+      m_Sprite: {fileID: 1668328139654175438, guid: 9d99eff277e794dbb8ab88111e9cb456,
+        type: 3}
+  - m_Name: Back
+    m_Hash: -839094775
+    m_CategoryList:
+    - m_Name: crotch
+      m_Hash: -2118870737
+      m_Sprite: {fileID: -7256968855118139791, guid: c11d84da0e7704072a441bb9e656390e,
+        type: 3}
+    - m_Name: torso
+      m_Hash: 660585605
+      m_Sprite: {fileID: -2116684550915460401, guid: c11d84da0e7704072a441bb9e656390e,
+        type: 3}
+    - m_Name: backhair
+      m_Hash: 119323219
+      m_Sprite: {fileID: 7036873670102012446, guid: c11d84da0e7704072a441bb9e656390e,
+        type: 3}
+    - m_Name: fringe
+      m_Hash: -25245601
+      m_Sprite: {fileID: -3142938234776058418, guid: c11d84da0e7704072a441bb9e656390e,
+        type: 3}
+    - m_Name: leftspike
+      m_Hash: -1793453218
+      m_Sprite: {fileID: 6026418880869282517, guid: c11d84da0e7704072a441bb9e656390e,
+        type: 3}
+    - m_Name: rightspike
+      m_Hash: 984089420
+      m_Sprite: {fileID: -1224293907811341131, guid: c11d84da0e7704072a441bb9e656390e,
+        type: 3}
+    - m_Name: head
+      m_Hash: -1477183844
+      m_Sprite: {fileID: 3195390122939440280, guid: c11d84da0e7704072a441bb9e656390e,
+        type: 3}
+  - m_Name: EyesOpen
+    m_Hash: -1092456088
+    m_CategoryList:
+    - m_Name: left-eye
+      m_Hash: 913738455
+      m_Sprite: {fileID: -9140354295653152552, guid: 9d99eff277e794dbb8ab88111e9cb456,
+        type: 3}
+    - m_Name: right-eye
+      m_Hash: -1904356226
+      m_Sprite: {fileID: -505107690655859143, guid: 9d99eff277e794dbb8ab88111e9cb456,
+        type: 3}
+  - m_Name: EyesClosed
+    m_Hash: 809196548
+    m_CategoryList:
+    - m_Name: left-eye
+      m_Hash: 913738455
+      m_Sprite: {fileID: -6154542787661556339, guid: d1d99820fbc814840b23474108d839ac,
+        type: 3}
+    - m_Name: right-eye
+      m_Hash: -1904356226
+      m_Sprite: {fileID: 7282215014370977498, guid: d1d99820fbc814840b23474108d839ac,
+        type: 3}
+  - m_Name: Mouth
+    m_Hash: 1594127251
+    m_CategoryList:
+    - m_Name: closed
+      m_Hash: 80170468
+      m_Sprite: {fileID: 8234319078695342674, guid: 9d99eff277e794dbb8ab88111e9cb456,
+        type: 3}
+    - m_Name: open-d
+      m_Hash: -1778982314
+      m_Sprite: {fileID: 5735044539134960295, guid: 7b69851a8f4ae4a9aba5b5d701659d4b,
+        type: 3}
+    - m_Name: open-o
+      m_Hash: 35929054
+      m_Sprite: {fileID: 1743334396043674452, guid: ddba7c9fe6219405f9100996b783f4ff,
+        type: 3}
